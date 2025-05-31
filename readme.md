@@ -16,7 +16,7 @@ All code provided here by Unecpedted Maker falls under the MIT License.
 
 ## SQUiXL GPIO Table
 
-Below are lists of GPIO used on SQUiXL that iclude native ESP32-S3 IO, IO Expander IO and IOMUX IO.
+Below are lists of GPIO used on SQUiXL that include native ESP32-S3 IO, IO Expander IO and IOMUX IO.
 
 I've also included the IO used for the ESP32-S3 RGB LCD Peripheral that drives the screen, and these IO *SHOULD NOT BE TOUCHED* or the screen will not oppperate.
 
